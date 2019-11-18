@@ -39,7 +39,7 @@ In project root run:
 mvn test
 ```
 
-##TODO
+## TODO
 
 * Implement Spring Security with JWT.
 * Remake app as a micro service.
